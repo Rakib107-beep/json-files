@@ -1,8 +1,13 @@
 {
-  "employees": [
-    {"name": "Md Rakibul Islam"},
-    {"age": 27},
-    {"city": "Dhaka"}
-    ]
+  "fatherName": "Abul kalam Azad",
+  "motherName": "Basia Begum",
+  "Country": "Bangladesh",
+  "info": [
+    {
+      "name": "Md Rakibul Islam",
+      "age": 27,
+      "address": "Tetuljhora, Savar, Dhaka",
+      "powers": ["Programming", "Programming", "Programming"]
+    },
+  ]
 }
-
