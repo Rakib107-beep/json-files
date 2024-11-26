@@ -10,4 +10,14 @@
       "powers": ["Programming", "Programming", "Programming"]
     },
   ]
+  {
+      "education": " BSC in CSE",
+      "institute": "Bangladesh University",
+      "id": 202011056276,
+      "teachers": [
+        "Sadeq Hossain",
+        "Mia Mohammad Idris",
+        "Dr.M.M.Enamul Aziz"
+      ]
+    },
 }
