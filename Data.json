@@ -7,6 +7,7 @@
       "name": "Md Rakibul Islam",
       "age": 27,
       "address": "Tetuljhora, Savar, Dhaka",
+      "postCode": 1347,
       "powers": ["Programming", "Programming", "Programming"]
     },
   ]
@@ -17,7 +18,7 @@
       "teachers": [
         "Sadeq Hossain",
         "Mia Mohammad Idris",
-        "Dr.M.M.Enamul Forid"
+        "Dr.M.M.Enamul Hossain"
       ]
     },
 }
